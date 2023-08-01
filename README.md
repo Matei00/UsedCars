@@ -1,2 +1,2 @@
 # UsedCars
-Data cleaning and regression model for the dataset on used cars listed in Germany
+Data cleaning, exploratory data analysis and regression tree for the dataset on used cars listed for sale in Germany.
